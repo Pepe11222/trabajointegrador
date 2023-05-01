@@ -1,0 +1,103 @@
+*{
+    box-sizing:border-box;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+.imagen1{
+    position: relative;
+    width: 7rem;
+
+}
+
+.verde{
+    color:green;
+}
+
+
+p{
+    color:white;
+}
+
+h5,h3{
+    display:inline-block ;
+    margin-left:40rem;
+}
+
+h5{
+    color:grey;
+}
+
+
+
+.texto1{
+    position: relative;
+}
+
+
+
+.texto1{
+position: absolute;
+top:10rem;
+right:10rem;
+width: 20rem;
+color:white;
+}
+
+.bill,.steve,.ada{
+    display: inline-block;
+    height: 20rem;
+    width: 20rem;
+
+}
+
+.isla{
+    display: inline-block;
+    height: 20rem;
+    width: 48rem;
+}
+
+h4,h6{
+    display: inline-block;
+    color: white;
+    font-style: oblique;
+}
+
+.fi1{
+   display: inline-block;
+   margin-left: 40rem;
+   color: gray;
+}
+
+.fi2{
+    display: inline-block;
+    margin-left: 43rem;
+    color: black;
+}
+
+.ul{
+    display: inline-block;
+    text-align: center;
+    margin-left: 23rem;
+}
+
+.tj1,.tj2{
+display: inline-block;
+margin-left: 20rem;
+}
+
+.cua{
+    display: inline-block;
+    margin-left: 35rem;
+}
+
+.en1{
+    display: inline-block;
+    margin-left: 36rem;
+    background-color: green;
+}
+
